@@ -1,0 +1,17 @@
+.section {
+    height: 100vh;
+    margin: 20px 0;
+  }
+  
+  .child {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #000;
+  }
+  
+  .sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }

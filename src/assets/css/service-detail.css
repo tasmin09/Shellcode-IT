@@ -1,0 +1,12 @@
+@media (min-width: 991px) {
+  .wrapper {
+    display: flex;
+    overflow: hidden;
+  }
+  
+  .wrapper section {
+    min-width: 100vw;
+    height: 100vh;
+    /* Additional styling for your sections */
+  }
+}
