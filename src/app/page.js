@@ -163,7 +163,7 @@ const HomePage = () => {
                         <Image
                           src={Star}
                           alt="star"
-                          className="size-8 lg:size-12 "
+                          className="size-8 lg:size-12"
                         ></Image>
                       </li>
                       <li>App Development</li>
@@ -171,7 +171,7 @@ const HomePage = () => {
                         <Image
                           src={Star}
                           alt="star"
-                          className="size-8 lg:size-12 "
+                          className="size-8 lg:size-12"
                         ></Image>
                       </li>
                       <li>SEO</li>
@@ -179,7 +179,7 @@ const HomePage = () => {
                         <Image
                           src={Star}
                           alt="star"
-                          className="size-8 lg:size-12 "
+                          className="size-8 lg:size-12"
                         ></Image>
                       </li>
                     </ul>
@@ -193,7 +193,7 @@ const HomePage = () => {
                         <Image
                           src={Star}
                           alt="star"
-                          className="size-8 lg:size-12 "
+                          className="size-8 lg:size-12"
                         ></Image>
                       </li>
                       <li>App Development</li>
@@ -201,7 +201,7 @@ const HomePage = () => {
                         <Image
                           src={Star}
                           alt="star"
-                          className="size-8 lg:size-12 "
+                          className="size-8 lg:size-12"
                         ></Image>
                       </li>
                       <li>SEO</li>
@@ -209,7 +209,7 @@ const HomePage = () => {
                         <Image
                           src={Star}
                           alt="star"
-                          className="size-8 lg:size-12 "
+                          className="size-8 lg:size-12"
                         ></Image>
                       </li>
                     </ul>
@@ -221,7 +221,7 @@ const HomePage = () => {
                         <Image
                           src={Star}
                           alt="star"
-                          className="size-8 lg:size-12 "
+                          className="size-8 lg:size-12"
                         ></Image>
                       </li>
                       <li>App Development</li>
@@ -229,7 +229,7 @@ const HomePage = () => {
                         <Image
                           src={Star}
                           alt="star"
-                          className="size-8 lg:size-12 "
+                          className="size-8 lg:size-12"
                         ></Image>
                       </li>
                       <li>SEO</li>
@@ -237,7 +237,7 @@ const HomePage = () => {
                         <Image
                           src={Star}
                           alt="star"
-                          className="size-8 lg:size-12 "
+                          className="size-8 lg:size-12"
                         ></Image>
                       </li>
                     </ul>
